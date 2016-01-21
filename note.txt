@@ -1,2 +1,4 @@
 Chao,
 Hello world
+co gi hay khong
+bao gio thi xong?
